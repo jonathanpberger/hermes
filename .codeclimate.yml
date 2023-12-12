@@ -1,0 +1,6 @@
+## other configuration excluded from example...
+exclude_patterns:
+- "tests/"
+- "spec/"
+- "**/vendor/"
+- "**/*.pb.go"
